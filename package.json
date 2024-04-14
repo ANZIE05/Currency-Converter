@@ -1,0 +1,22 @@
+{
+  "name": "anzie04-currency-converter",
+  "version": "1.0.0",
+  "main": "c_c.js",
+  "type": "module",
+  "bin": "c_c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.6"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}
